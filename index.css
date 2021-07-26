@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url('wall2.jpg');
+    background-image: url('./img/wall2.jpg');
     background-repeat: repeat;
     width: 100vw;
     font-family: 'Montserrat', sans-serif;
